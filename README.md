@@ -1,2 +1,2 @@
-# singly linked list
- my implementation of linked list 
+linked list
+ my implementation of linked lists and its types 
